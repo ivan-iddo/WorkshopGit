@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> ::latihan Git1::
+</title>
+</head>
+<body>
+<table width=="800"border="1"align="center">
+<tr>
+<td><div align="center"><span class="style1">INI ADALAH UNTUK HEADER</span></div></td>
+</tr>
+</table>
+</body>
+</html>
